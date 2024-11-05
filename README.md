@@ -2,4 +2,4 @@
 A note about /robots.txt.
 
 ### Credits
-- [The Web Robots Pages](https://www.robotstxt.org/)
+- [The Web Robots Pages - robotstxt.org](https://www.robotstxt.org/)
